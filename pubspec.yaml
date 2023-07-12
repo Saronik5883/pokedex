@@ -31,7 +31,6 @@ dependencies:
   flutter:
     sdk: flutter
   pokedex: ^0.1.1
-  pokeapi: any
   flutter_riverpod: any
   dynamic_color: any
   syncfusion_flutter_charts: any
